@@ -1,5 +1,5 @@
 Algoritmo Area
-	
+//Hola a todos es una prueba	
 	Escribir "Ingresa la base del traingulo"
 	leer base
 	Escribir "Ingresa la altura del triangulo"
