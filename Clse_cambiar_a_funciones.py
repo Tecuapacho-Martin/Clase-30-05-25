@@ -1,4 +1,4 @@
-
+#otra prueb jasJA SJS
 def pedir_base():
     return float(input("Ingrese la base del triangulo: "))
 
